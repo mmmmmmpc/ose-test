@@ -8,9 +8,9 @@ Version: '1.0'
 Versions:
   - '1.0'
 Cartridge-Version: 0.0.1
-Cartridge-Vendor: gshipley
+Cartridge-Vendor: mperezco
 License: GPL
-Vendor: gshipley
+Vendor: mperezco
 Categories:
   - service
   - embedded
